@@ -16,7 +16,7 @@ ByteZone es un e-commerce dedicado a la venta de productos tecnológicos. Este p
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/maxilovaiza/byteZone.git
 ```
 
 ### 2. Ingresar a la carpeta del proyecto
